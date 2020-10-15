@@ -4,7 +4,7 @@
                          \ ,---| /
                          ||    ||    
                          ^^    ^^                  
-                                                                                  
+                          Hi 👋                                                      
         - 🧰 I’m currently working on a SaaS business.
         - 💻 Application Security & Bug Bounties.
         - 🌎 Globetrotter & Digital Nomad.
