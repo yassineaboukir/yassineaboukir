@@ -6,9 +6,8 @@
                                                                ^^    ^^                  
                                                                 Hi 👋       
                                                                 
-                                              💻 AppSec engineering and consulting & Bug Bounties.
-                                              🌎 Globetrotter & Digital Nomad.
-                                              📩 DM @yassineaboukir or e-mail yassine@aboukir.me
+                                              💻 AppSec engineering, consulting and bug bounties.
+                                              📩 DM @yassineaboukir on Twitter or e-mail yassine@aboukir.me
 
 
 
